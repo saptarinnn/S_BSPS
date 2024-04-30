@@ -1,0 +1,34 @@
+<?php
+
+namespace App\Http\Requests;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Validation\Rule;
+
+class BarangRequest extends FormRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array<mixed>|string>
+     */
+    public function rules(): array
+    {
+        return [
+            'gambar' => ['image', 'mimes:png,jpg,jpeg'],
+            'nama' => ['required', Rule::unique('barang', 'nama')->ignore($this->barang?->id)],
+            'kategori_id' => ['required'],
+            // 'stok' => ['required', 'numeric'],
+            'harga' => ['required'],
+            'deskripsi' => ['required'],
+        ];
+    }
+}
