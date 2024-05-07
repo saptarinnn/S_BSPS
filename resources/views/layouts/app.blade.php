@@ -122,7 +122,7 @@
 
             </div>
 
-            <footer class="">
+            {{-- <footer class="">
                 <div class="container">
                     <div class="clearfix mb-0 footer text-muted">
                         <div class="float-start">
@@ -133,7 +133,7 @@
                         </div>
                     </div>
                 </div>
-            </footer>
+            </footer> --}}
         </div>
     </div>
 
