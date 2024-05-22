@@ -1,0 +1,109 @@
+{
+  "_jquery-BV05pt1z.js": {
+    "file": "assets/jquery-BV05pt1z.js",
+    "name": "jquery"
+  },
+  "resources/assets/compiled/eot/Iconly---Bold.eot": {
+    "file": "assets/Iconly---Bold-DepzOqG-.eot",
+    "src": "resources/assets/compiled/eot/Iconly---Bold.eot"
+  },
+  "resources/assets/compiled/fonts/Iconly---Bold.ttf": {
+    "file": "assets/Iconly---Bold-DKXWv6ob.ttf",
+    "src": "resources/assets/compiled/fonts/Iconly---Bold.ttf"
+  },
+  "resources/assets/compiled/fonts/Iconly---Bold.woff": {
+    "file": "assets/Iconly---Bold-BeUThTfl.woff",
+    "src": "resources/assets/compiled/fonts/Iconly---Bold.woff"
+  },
+  "resources/assets/compiled/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-BtvjY1KL.woff2",
+    "src": "resources/assets/compiled/fonts/bootstrap-icons.woff2"
+  },
+  "resources/assets/compiled/fonts/nunito-latin-300-normal.woff": {
+    "file": "assets/nunito-latin-300-normal--DpLxgpx.woff",
+    "src": "resources/assets/compiled/fonts/nunito-latin-300-normal.woff"
+  },
+  "resources/assets/compiled/fonts/nunito-latin-300-normal.woff2": {
+    "file": "assets/nunito-latin-300-normal-BgyrK4FO.woff2",
+    "src": "resources/assets/compiled/fonts/nunito-latin-300-normal.woff2"
+  },
+  "resources/assets/compiled/fonts/nunito-latin-400-normal.woff": {
+    "file": "assets/nunito-latin-400-normal-CBCmdKB7.woff",
+    "src": "resources/assets/compiled/fonts/nunito-latin-400-normal.woff"
+  },
+  "resources/assets/compiled/fonts/nunito-latin-400-normal.woff2": {
+    "file": "assets/nunito-latin-400-normal-CZyQWxrc.woff2",
+    "src": "resources/assets/compiled/fonts/nunito-latin-400-normal.woff2"
+  },
+  "resources/assets/compiled/fonts/nunito-latin-600-normal.woff": {
+    "file": "assets/nunito-latin-600-normal-BoeSE8Bi.woff",
+    "src": "resources/assets/compiled/fonts/nunito-latin-600-normal.woff"
+  },
+  "resources/assets/compiled/fonts/nunito-latin-600-normal.woff2": {
+    "file": "assets/nunito-latin-600-normal-D9kyXBl3.woff2",
+    "src": "resources/assets/compiled/fonts/nunito-latin-600-normal.woff2"
+  },
+  "resources/assets/compiled/fonts/nunito-latin-700-normal.woff": {
+    "file": "assets/nunito-latin-700-normal-DJeI51tZ.woff",
+    "src": "resources/assets/compiled/fonts/nunito-latin-700-normal.woff"
+  },
+  "resources/assets/compiled/fonts/nunito-latin-700-normal.woff2": {
+    "file": "assets/nunito-latin-700-normal-Cd_mRJne.woff2",
+    "src": "resources/assets/compiled/fonts/nunito-latin-700-normal.woff2"
+  },
+  "resources/assets/compiled/fonts/nunito-latin-800-normal.woff": {
+    "file": "assets/nunito-latin-800-normal-Cy4nNE5-.woff",
+    "src": "resources/assets/compiled/fonts/nunito-latin-800-normal.woff"
+  },
+  "resources/assets/compiled/fonts/nunito-latin-800-normal.woff2": {
+    "file": "assets/nunito-latin-800-normal-Dcje90FH.woff2",
+    "src": "resources/assets/compiled/fonts/nunito-latin-800-normal.woff2"
+  },
+  "resources/assets/compiled/svg/Iconly---Bold.svg": {
+    "file": "assets/Iconly---Bold-BYuuNz-8.svg",
+    "src": "resources/assets/compiled/svg/Iconly---Bold.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Capu9sse.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_jquery-BV05pt1z.js"
+    ],
+    "css": [
+      "assets/app-Ban6KdU_.css"
+    ],
+    "assets": [
+      "assets/bootstrap-icons-BtvjY1KL.woff2",
+      "assets/nunito-latin-300-normal-BgyrK4FO.woff2",
+      "assets/nunito-latin-300-normal--DpLxgpx.woff",
+      "assets/nunito-latin-400-normal-CZyQWxrc.woff2",
+      "assets/nunito-latin-400-normal-CBCmdKB7.woff",
+      "assets/nunito-latin-600-normal-D9kyXBl3.woff2",
+      "assets/nunito-latin-600-normal-BoeSE8Bi.woff",
+      "assets/nunito-latin-700-normal-Cd_mRJne.woff2",
+      "assets/nunito-latin-700-normal-DJeI51tZ.woff",
+      "assets/nunito-latin-800-normal-Dcje90FH.woff2",
+      "assets/nunito-latin-800-normal-Cy4nNE5-.woff",
+      "assets/Iconly---Bold-DepzOqG-.eot",
+      "assets/Iconly---Bold-DKXWv6ob.ttf",
+      "assets/Iconly---Bold-BeUThTfl.woff",
+      "assets/Iconly---Bold-BYuuNz-8.svg"
+    ]
+  },
+  "resources/js/landing-page.js": {
+    "file": "assets/landing-page-BbS6-9iB.js",
+    "name": "landing-page",
+    "src": "resources/js/landing-page.js",
+    "isEntry": true,
+    "imports": [
+      "_jquery-BV05pt1z.js"
+    ]
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-CoDpR7nl.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
